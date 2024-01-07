@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avishkasadaru26
 - 👀 I’m interested in .net 
-- 🌱 I’m currently learning HND in Software Engineering 
+- 🌱 I’m currently learning Top-up in Software Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
